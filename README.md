@@ -1,5 +1,4 @@
 # HotelApp
-Basic hotel room manager App
 Hotel Reservation Management System is a system that allows managing room reservations in a hotel.
 It enables both regular users and administrators to make reservations, view available rooms, add and update room 
 information, manage a list of clients, and more.
