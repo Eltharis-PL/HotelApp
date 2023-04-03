@@ -24,7 +24,8 @@ Python
 SQLite
 datetime module for date and time handling
 User interface description:
-The program uses a command-line interface for user interaction. Users can enter data using the keyboard, and messages are displayed on the screen.
+The program uses a command-line interface for user interaction. Users can enter data using
+the keyboard, and messages are displayed on the screen.
 
 System requirements:
 
